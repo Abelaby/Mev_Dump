@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es2015",
+      "downlevelIteration": true,
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+  }
+  
